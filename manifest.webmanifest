@@ -1,0 +1,19 @@
+{
+  "name": "Escoliosis Infantil y Adolescente",
+  "short_name": "Escoliosis",
+  "description": "70 protocolos de rehabilitación para fisioterapeutas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1b3e",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
